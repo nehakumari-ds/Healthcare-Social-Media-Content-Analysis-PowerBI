@@ -10,9 +10,30 @@ This dashboard visualizes key metrics from healthcare-related social media conte
 Features
 
 Engagement rate analysis
+
 Follower count trends across platforms
+
 Content type performance (video, image, reel, post, etc.)
+
 Views and interaction metrics
+
 Clean KPI cards for quick insights
+
 Interactive slicer for filtering post titles
+
 Modern, minimal dashboard design
+
+
+Tools Used
+
+Power BI Desktop
+
+MS Excel
+
+Data Modeling & DAX
+
+Data Cleaning & Visualization
+
+Dashboard Preview
+
+https://ibb.co/gMVWQ0Dd
