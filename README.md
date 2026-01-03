@@ -26,4 +26,4 @@ This dashboard visualizes key metrics from healthcare-related social media conte
 
 ## Dashboard Preview
 
-https://ibb.co/gMVWQ0Dd
+![Social Media Dashboard](https://github.com/nehakumari-ds/Healthcare-Social-Media-Content-Analysis-PowerBI/blob/main/Social%20Media%20Dashboards%20.png)
